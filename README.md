@@ -86,3 +86,11 @@ Aunque no tengo afinidad para crear dibujos, hice mi mejor esfuerzo para mostrar
 
 ## Day 11 - Arctic
 
+### Arctic
+
+Avistamiento del  Canis lupus subsp. arctos Pocock, (1935) en el ARCTIC.
+
+![Arctic](Day11/Day11_Arctic.png)
+
+## Day 12 - Time and Space
+
