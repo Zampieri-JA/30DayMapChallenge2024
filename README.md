@@ -93,4 +93,10 @@ Avistamiento del  Canis lupus subsp. arctos Pocock, (1935) en el ARCTIC.
 ![Arctic](Day11/Day11_Arctic.png)
 
 ## Day 12 - Time and Space
+### Cuenca Baja - Río Maniqui
 
+Comportamiento de la cuenca baja del Río Maniqui en Bolivia
+
+![Cuenca](Day12/Day12_Cuenca.gif)
+
+## Day 13 - A new tool
