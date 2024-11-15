@@ -100,3 +100,19 @@ Comportamiento de la cuenca baja del Río Maniqui en Bolivia
 ![Cuenca](Day12/Day12_Cuenca.gif)
 
 ## Day 13 - A new tool
+
+### Mapa de Edificios de Rumania
+
+Usando una nueva herramienta como Blender, creeé este mapa donde se visualiza los edificios de Rumania
+
+![New](Day13/Day13_AnewTool.png)
+
+## Day 14 - A World Map
+
+### Promedio Anual de NO2 por paises (2023)
+
+Visualización de la concentración promedio anual de Dióxido de Nitrogeno (NO2), para esto empleé los datos de Sentinel-5P de Copernicus.
+
+![NO2](Day14/Day14_AWorldMap.png)
+
+## Day 15 - DATA: my Data
