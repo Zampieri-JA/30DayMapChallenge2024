@@ -116,3 +116,20 @@ Visualización de la concentración promedio anual de Dióxido de Nitrogeno (NO2
 ![NO2](Day14/Day14_AWorldMap.png)
 
 ## Day 15 - DATA: my Data
+
+### Mis Rutas de la adolescencia
+
+En esta ocasión proyecté las rutas que más recorría durante mis estudios de colegio en un pequeño pueblo en la Amazonía Boliviana,
+
+![MyData](Day15/Day15_MyData.png)
+
+## Day 16 - Choropleth
+
+### Biomasa Total Anual
+
+En este mapa muestro la distribución de la Biomasa Total Anual por Municipios en Bolivia, los datos fueron obtenidos del portal [WaPor de la FAO](https://data.apps.fao.org/wapor/?lang=es).
+
+![Biomass](Day16/Day16_Choropleth.png)
+
+## Day 17 - Collaborative Map
+
