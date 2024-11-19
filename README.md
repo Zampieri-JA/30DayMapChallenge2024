@@ -133,3 +133,15 @@ En este mapa muestro la distribución de la Biomasa Total Anual por Municipios e
 
 ## Day 17 - Collaborative Map
 
+En el día 17, decidí pedirle la colaboración a la IA [ChatGPT](https://chatgpt.com/), para elaborar un mapa donde se muestre la distribución del NO2 en la provincia Andrés Ibañez en Santa Cruz
+
+![Aire](Day17/Day17_Collaboratyve.png)
+
+## Day 18 - 3D
+
+La imagen muestra una parte de la Ciudad de La Paz con el modelo 3D realizado en Blender.
+
+![La paz](Day18/Day18_3D.png)
+
+## Day 13 - Typography
+
