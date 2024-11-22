@@ -143,5 +143,28 @@ La imagen muestra una parte de la Ciudad de La Paz con el modelo 3D realizado en
 
 ![La paz](Day18/Day18_3D.png)
 
-## Day 13 - Typography
+## Day 19 - Typography
 
+La imagen muestra una parte de la Ciudad de La Paz con el modelo 3D realizado en Blender.
+
+![OSM](Day19/Day19_Typograpy.png)
+
+## Day 20 - Data: OpenStreetMap
+
+6 Barrios de Venezia en Italia, para esto empleé el paquete de python prettymaps.
+
+![Venezia](Day20/Day20_DataOSM.png)
+
+## Day 21 - Conflict
+
+Evolución de la violencia organizada desde 1989 hasta el 2023 en África.
+
+![Africa](Day21/Day21_Conflicto.png)
+
+## Day 22 - 2 Colours
+
+Sitios Ramsar en Bolivia.
+
+![Ramsar](Day22/Day22_2Colours.png)
+
+## Day 23 - Memory
