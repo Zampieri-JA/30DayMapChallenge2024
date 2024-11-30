@@ -4,6 +4,13 @@ En este repositorio encontrarás todos los recursos y códigos utilizado en la c
 
 ![#30DayMapChallenge](30DayMapChallenge.png)
 
+## Herramientas y Programas empleados
+- [QGIS](https://www.qgis.org/)
+- [Blnder](https://www.blender.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Python](https://www.python.org/)
+- [Colab](https://colab.research.google.com/)
+
 ## Day 1 - Point
 
 #### Estaciones de Peajes en Bolivia
@@ -168,3 +175,52 @@ Sitios Ramsar en Bolivia.
 ![Ramsar](Day22/Day22_2Colours.png)
 
 ## Day 23 - Memory
+
+Recordando mi visita a la tirolesa más larga de Bolivia.
+
+![Memory](Day23/Day23_Memory.png)
+
+## Day 24 - Only Circular Shapes
+
+Visualizando la superficie de los municipios de Bolivia con una perspectiva diferente.
+
+![Bolivia_mun](Day24/Day24_OnlyCircularShp.png)
+
+## Day 25 - Heat
+
+Visualizando la temperatura nocturna en America del Sur.
+
+![Temperatura](Day25/Day25_Heat.png)
+
+## Day 26 - Map Projection
+
+Explorando las diferentes proyecciones.
+
+![Projection](Day26/Day26_Projection.png)
+
+## Day 27 - Micromapping
+
+Mapeando los predios de la Universidad Autónoma Gabriel René Moreno UAGRM en Bolivia.
+
+![UAGRM](Day27/Day27_micromap.png)
+
+## Day 28 - The Blue Planet
+
+Visualizando un Modelo de circulación general oceánica.
+
+![ocean](Day28/Day28_Ocean.png)
+
+## Day 29 - Data: Overture
+
+Visualizando una parte del centro de la Ciudad de Cochabamba en Bolivia (Plaza 14 de septiembre)
+
+![data](Day29/Day29_Overture.png)
+
+## Day 30 - The Final Map
+
+Altura de la copa de los árboles, de acuerdo a la Ley Municipal N°210 de Santa Cruz de la Sierra..
+
+![Dosel](Day30/Day30_Final.png)
+
+### Gracias por ver hasta el final
+### By: @Jorge A. Zampieri 
