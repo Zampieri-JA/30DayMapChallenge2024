@@ -11,6 +11,9 @@ En este repositorio encontrarás todos los recursos y códigos utilizado en la c
 - [Python](https://www.python.org/)
 - [Colab](https://colab.research.google.com/)
 
+## Collage 
+![Collage](#30DayMapChallenge_final.png)
+
 ## Day 1 - Point
 
 #### Estaciones de Peajes en Bolivia
