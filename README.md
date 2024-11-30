@@ -12,7 +12,7 @@ En este repositorio encontrarás todos los recursos y códigos utilizado en la c
 - [Colab](https://colab.research.google.com/)
 
 ## Collage 
-![Collage](#30DayMapChallenge_final.png)
+![Collage](30DayMapChallenge_final.png)
 
 ## Day 1 - Point
 
