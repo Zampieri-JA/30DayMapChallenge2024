@@ -155,7 +155,7 @@ La imagen muestra una parte de la Ciudad de La Paz con el modelo 3D realizado en
 
 ## Day 19 - Typography
 
-La imagen muestra una parte de la Ciudad de La Paz con el modelo 3D realizado en Blender.
+la imagen visualiza a Sudamerica con estilo tipográfico, esto se logra gracias a un plugin de QGIS.
 
 ![OSM](Day19/Day19_Typograpy.png)
 
